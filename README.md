@@ -5,4 +5,4 @@ eigene Mediathek. Wir wollen in diesem Mediatheken-Dschungel Orientierung & eine
 dabei flimmerkiste kreiert. Mit flimmerkiste ist es möglich mit nur einer App die Mediatheken der deutschsprachigen
 öffentlich-rechtlichen Sender zur durchforsten und die einzelnen Videos der Sender abzuspielen.
 
-<img src="assets/logos/logo-flimmerkiste.png" alt="Logo von Flimmerkiste" width="50%">
+<img src="assets/screenshots/Screenshot_20230226_153258.png" alt="Screenshot aus Flimmerkiste" width="50%">
